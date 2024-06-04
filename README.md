@@ -1,2 +1,2 @@
 # RTOS
-Firmware written for a STM32 board.
+Real-Time Operating System developed in STM32CUBE IDE
