@@ -1,4 +1,4 @@
-# RTOS
-Real-Time Operating System developed in STM32CUBE IDE
+# MTE 241
+Real-Time Operating Systems
 
 Current State: Lab 2 End
